@@ -1,0 +1,10 @@
+body{
+    background-color: yellow;
+    font-family:Arial, Helvetica, sans-serif ;
+
+}
+.result{
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+}
